@@ -1,0 +1,2 @@
+# myToken
+Solana Token
